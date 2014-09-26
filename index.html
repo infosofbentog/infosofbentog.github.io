@@ -10,9 +10,9 @@
   <title> Automne en Afrique &middot; Automne en Afrique </title>
 
   
-  <link rel="stylesheet" href="http://infosofbentog.github.io/css/poole.css">
-  <link rel="stylesheet" href="http://infosofbentog.github.io/css/syntax.css">
-  <link rel="stylesheet" href="http://infosofbentog.github.io/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -20,7 +20,7 @@
   <link rel="shortcut icon" href="/favicon.ico">
 
   
-  <link href="http://infosofbentog.github.io/index.xml/" rel="alternate" type="application/rss+xml" title="Automne en Afrique" />
+  <link href="http://localhost:1313/index.xml/" rel="alternate" type="application/rss+xml" title="Automne en Afrique" />
 </head>
 
 <body class="layout-reverse">
@@ -33,6 +33,10 @@
        à la recherche du haricot magique 
       </p>
     </div>
+
+	<ul id="all-tags">
+	  
+	</ul>
 
     <ul class="sidebar-nav">
 	  <li><a href="/mission/Un-mot">un mot</a> </li>
@@ -56,7 +60,7 @@
 
   <div class="post">
     <h1 class="post-title">
-      <a href="http://infosofbentog.github.io/mission/Un-mot/">
+      <a href="http://localhost:1313/mission/Un-mot/">
         Un petit mot
       </a>
     </h1>
@@ -89,5 +93,8 @@ La question de comment canaliser les forces du travail agricole d&rsquo;un villa
 </div>
 
 
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>

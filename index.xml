@@ -3,34 +3,41 @@
   <channel>
       <title>Recent Content on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://infosofbentog.github.io/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     <language>fr-fr</language>
     
     
-    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
+    <updated>Fri, 26 Sep 2014 00:00:00 CEST</updated>
     
     <item>
-      <title>Le déroulement de mission - le suivi</title>
-      <link>http://infosofbentog.github.io/mission/Le-deroulement-de-mission/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <title>exemple</title>
+      <link>http://localhost:1313/articles/exemple/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 CEST</pubDate>
       
-      <guid>http://infosofbentog.github.io/mission/Le-deroulement-de-mission/</guid>
-      <description>
+      <guid>http://localhost:1313/articles/exemple/</guid>
+      <description>&lt;p&gt;Pour la date de l&amp;rsquo;article, bien respecter le format :
+YYYY-MM-JJT00:00:00:00&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
+&lt;p&gt;Retirer les rubriques en trop&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Pour ajouter une photo :
+1 / ouvrir la photo
+2/ faire une capture avec greenshot (icone G)
+3 / choisir un nom sans espace ni accent
+4 / replacer le texte et le nom dans l&amp;rsquo;exemple ci-dessous :
+5/ copier la ligne dans l&amp;rsquo;article (avec le !)&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;A Hanyigba&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/Tulips.jpg&#34; alt=&#34;de belles tulipes&#34; /&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Le cadre de ma mission de développement économique</title>
-      <link>http://infosofbentog.github.io/mission/Contexte-de-mission/</link>
+      <link>http://localhost:1313/mission/Contexte-de-mission/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://infosofbentog.github.io/mission/Contexte-de-mission/</guid>
+      <guid>http://localhost:1313/mission/Contexte-de-mission/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
@@ -54,10 +61,10 @@ La vente de cette production doit garantir aux femmes des ressources susceptible
     
     <item>
       <title>Hanyigba au Togo</title>
-      <link>http://infosofbentog.github.io/mission/Hanyigba-au-Togo/</link>
+      <link>http://localhost:1313/mission/Hanyigba-au-Togo/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://infosofbentog.github.io/mission/Hanyigba-au-Togo/</guid>
+      <guid>http://localhost:1313/mission/Hanyigba-au-Togo/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/dmuj6V8.png&#34; alt=&#34;&#34; /&gt;
@@ -90,10 +97,10 @@ J&amp;rsquo;ai proposé l&amp;rsquo;année dernière, après une première anné
     
     <item>
       <title>Un petit mot</title>
-      <link>http://infosofbentog.github.io/mission/Un-mot/</link>
+      <link>http://localhost:1313/mission/Un-mot/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://infosofbentog.github.io/mission/Un-mot/</guid>
+      <guid>http://localhost:1313/mission/Un-mot/</guid>
       <description>&lt;p&gt;Pour celles et ceux qui s&amp;rsquo;en souviennent, la venue de l&amp;rsquo;automne m&amp;rsquo;invite à retrouver MON chemin de l&amp;rsquo;école, celui de repartir, de me retrouver dans cet environnement source et porteur de sens et d&amp;rsquo;énergie: l&amp;rsquo; Afrique.
 Quitter cet écrin occidental, quoiqu&amp;rsquo;on en dise, douillet, nanti, serein, pérenne et sécurisé.
 Epurer un instant mon &amp;ldquo;biotope&amp;rdquo; , chasser de la main les parasites, médias, stress, agressions, publicités, excès de consommation, tentations fébriles, flashs, lumières, factures, mails inutiles,&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip; générateurs de doutes, d&amp;rsquo;angoisse, de perte de conscience de ce qu&amp;rsquo;est l&amp;rsquo;essentiel.&lt;/p&gt;
@@ -120,11 +127,27 @@ La question de comment canaliser les forces du travail agricole d&amp;rsquo;un v
     </item>
     
     <item>
-      <title>URGENCE AFRIQUE Quésaco?</title>
-      <link>http://infosofbentog.github.io/mission/Urgence-Afrique/</link>
+      <title>Le bilan et évaluation de la mission.</title>
+      <link>http://localhost:1313/mission/bilan-de-la-mission/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://infosofbentog.github.io/mission/Urgence-Afrique/</guid>
+      <guid>http://localhost:1313/mission/bilan-de-la-mission/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;A Hanyigba&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>URGENCE AFRIQUE Quésaco?</title>
+      <link>http://localhost:1313/mission/Urgence-Afrique/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/mission/Urgence-Afrique/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/YklsiM0.jpg&#34; alt=&#34;&#34; /&gt;
@@ -181,27 +204,11 @@ Après sélection de votre candidature, tout volontaire peut personnaliser sa mi
     </item>
     
     <item>
-      <title>Le bilan et évaluation de la mission.</title>
-      <link>http://infosofbentog.github.io/mission/bilan-de-la-mission/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://infosofbentog.github.io/mission/bilan-de-la-mission/</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;A Hanyigba&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Togbota au Bénin</title>
-      <link>http://infosofbentog.github.io/mission/Togbota-au-Benin/</link>
+      <link>http://localhost:1313/mission/Togbota-au-Benin/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://infosofbentog.github.io/mission/Togbota-au-Benin/</guid>
+      <guid>http://localhost:1313/mission/Togbota-au-Benin/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/0vvAWt2.jpg&#34; alt=&#34;&#34; /&gt;
@@ -346,6 +353,22 @@ Selon les services de santé du département, près de 15 % des enfants n’atte
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/AiF1rac.png&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Le déroulement de mission - le suivi</title>
+      <link>http://localhost:1313/mission/Le-deroulement-de-mission/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/mission/Le-deroulement-de-mission/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;A Hanyigba&lt;/h2&gt;
 </description>
     </item>
     
