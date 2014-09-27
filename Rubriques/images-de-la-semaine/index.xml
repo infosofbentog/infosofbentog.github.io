@@ -3,7 +3,7 @@
   <channel>
       <title>Images-De-La-Semaine on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/Rubriques/images-de-la-semaine/index.xml/</link>
+    <link>http://infosofbentog.github.io/Rubriques/images-de-la-semaine/index.xml/</link>
     <language>fr-fr</language>
     
     
@@ -11,10 +11,33 @@
     
     <item>
       <title>exemple</title>
-      <link>http://localhost:1313/articles/exemple/</link>
+      <link>http://infosofbentog.github.io/articles/exemple%20-%20Copie/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 CEST</pubDate>
       
-      <guid>http://localhost:1313/articles/exemple/</guid>
+      <guid>http://infosofbentog.github.io/articles/exemple%20-%20Copie/</guid>
+      <description>&lt;p&gt;Pour la date de l&amp;rsquo;article, bien respecter le format :
+YYYY-MM-JJT00:00:00:00&lt;/p&gt;
+
+&lt;p&gt;Retirer les rubriques en trop&lt;/p&gt;
+
+&lt;p&gt;Pour ajouter une photo :
+1 / ouvrir la photo
+2/ faire une capture avec greenshot (icone G)
+3 / choisir un nom sans espace ni accent
+4 / replacer le texte et le nom dans l&amp;rsquo;exemple ci-dessous :
+5/ copier la ligne dans l&amp;rsquo;article (avec le !)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/Tulips.jpg&#34; alt=&#34;de belles tulipes&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>exemple</title>
+      <link>http://infosofbentog.github.io/articles/exemple/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 CEST</pubDate>
+      
+      <guid>http://infosofbentog.github.io/articles/exemple/</guid>
       <description>&lt;p&gt;Pour la date de l&amp;rsquo;article, bien respecter le format :
 YYYY-MM-JJT00:00:00:00&lt;/p&gt;
 

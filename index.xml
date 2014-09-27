@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <link>http://infosofbentog.github.io/index.xml/</link>
     <language>fr-fr</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>exemple</title>
-      <link>http://localhost:1313/articles/exemple/</link>
+      <link>http://infosofbentog.github.io/articles/exemple%20-%20Copie/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 CEST</pubDate>
       
-      <guid>http://localhost:1313/articles/exemple/</guid>
+      <guid>http://infosofbentog.github.io/articles/exemple%20-%20Copie/</guid>
       <description>&lt;p&gt;Pour la date de l&amp;rsquo;article, bien respecter le format :
 YYYY-MM-JJT00:00:00:00&lt;/p&gt;
 
@@ -33,38 +33,34 @@ YYYY-MM-JJT00:00:00:00&lt;/p&gt;
     </item>
     
     <item>
-      <title>Le cadre de ma mission de développement économique</title>
-      <link>http://localhost:1313/mission/Contexte-de-mission/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <title>exemple</title>
+      <link>http://infosofbentog.github.io/articles/exemple/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 CEST</pubDate>
       
-      <guid>http://localhost:1313/mission/Contexte-de-mission/</guid>
-      <description>
+      <guid>http://infosofbentog.github.io/articles/exemple/</guid>
+      <description>&lt;p&gt;Pour la date de l&amp;rsquo;article, bien respecter le format :
+YYYY-MM-JJT00:00:00:00&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
+&lt;p&gt;Retirer les rubriques en trop&lt;/p&gt;
 
-&lt;p&gt;La ferme solidaire de Togbota, mise en place en 2013, sur une superficie de 2500 m² développe la production de 14 cultures maraîchères menée par un groupe de femmes.
-On y trouve: gombo,manioc, tomates, maïs, piment, arachides, taro, ananas, papaye etc&amp;hellip;.
-La vente de cette production doit garantir aux femmes des ressources susceptibles d&amp;rsquo;être réaffectées dans les domaines de l&amp;rsquo;hygiène de la santé et de l&amp;rsquo;éducation.&lt;/p&gt;
+&lt;p&gt;Pour ajouter une photo :
+1 / ouvrir la photo
+2/ faire une capture avec greenshot (icone G)
+3 / choisir un nom sans espace ni accent
+4 / replacer le texte et le nom dans l&amp;rsquo;exemple ci-dessous :
+5/ copier la ligne dans l&amp;rsquo;article (avec le !)&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;A Hanyigba&lt;/h2&gt;
-
-&lt;p&gt;Pour celles eu ceux qui se souviennent, nous chanterons là &lt;em&gt;Planter &amp;hellip;.café, c&amp;rsquo;est pas pour les gens fragiles, y a qu&amp;rsquo;à s&amp;rsquo;baisser mais c&amp;rsquo;est ça qui est difficile!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Blague à part , depuis décembre 2013, les toilettes sèches sont construites, la coopérative a fini son deuxième exercice, une amorce de pisciculture serait née, une ruche en place et un projet d&amp;rsquo;élevage de poulets complèterait la diversité de l&amp;rsquo;outil économique.&lt;/p&gt;
-
-&lt;p&gt;Pour les mordus voici le lien qui vous ramène au rapport de mission fait en ce début 2014,
-&lt;a href=&#34;http://www.urgenceafrique.org/sites/default/files/temoignages-rapports-files/11.2013_rapport_mission_developpement_economique_sophie_b_0.pdf&#34;&gt;11.2013_rapport_mission_developpement_economique_sophie_b_0.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/Tulips.jpg&#34; alt=&#34;de belles tulipes&#34; /&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hanyigba au Togo</title>
-      <link>http://localhost:1313/mission/Hanyigba-au-Togo/</link>
+      <link>http://infosofbentog.github.io/mission/Hanyigba-au-Togo/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/mission/Hanyigba-au-Togo/</guid>
+      <guid>http://infosofbentog.github.io/mission/Hanyigba-au-Togo/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/dmuj6V8.png&#34; alt=&#34;&#34; /&gt;
@@ -97,10 +93,10 @@ J&amp;rsquo;ai proposé l&amp;rsquo;année dernière, après une première anné
     
     <item>
       <title>Un petit mot</title>
-      <link>http://localhost:1313/mission/Un-mot/</link>
+      <link>http://infosofbentog.github.io/mission/Un-mot/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/mission/Un-mot/</guid>
+      <guid>http://infosofbentog.github.io/mission/Un-mot/</guid>
       <description>&lt;p&gt;Pour celles et ceux qui s&amp;rsquo;en souviennent, la venue de l&amp;rsquo;automne m&amp;rsquo;invite à retrouver MON chemin de l&amp;rsquo;école, celui de repartir, de me retrouver dans cet environnement source et porteur de sens et d&amp;rsquo;énergie: l&amp;rsquo; Afrique.
 Quitter cet écrin occidental, quoiqu&amp;rsquo;on en dise, douillet, nanti, serein, pérenne et sécurisé.
 Epurer un instant mon &amp;ldquo;biotope&amp;rdquo; , chasser de la main les parasites, médias, stress, agressions, publicités, excès de consommation, tentations fébriles, flashs, lumières, factures, mails inutiles,&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip; générateurs de doutes, d&amp;rsquo;angoisse, de perte de conscience de ce qu&amp;rsquo;est l&amp;rsquo;essentiel.&lt;/p&gt;
@@ -128,10 +124,10 @@ La question de comment canaliser les forces du travail agricole d&amp;rsquo;un v
     
     <item>
       <title>Le bilan et évaluation de la mission.</title>
-      <link>http://localhost:1313/mission/bilan-de-la-mission/</link>
+      <link>http://infosofbentog.github.io/mission/bilan-de-la-mission/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/mission/bilan-de-la-mission/</guid>
+      <guid>http://infosofbentog.github.io/mission/bilan-de-la-mission/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
@@ -144,10 +140,10 @@ La question de comment canaliser les forces du travail agricole d&amp;rsquo;un v
     
     <item>
       <title>URGENCE AFRIQUE Quésaco?</title>
-      <link>http://localhost:1313/mission/Urgence-Afrique/</link>
+      <link>http://infosofbentog.github.io/mission/Urgence-Afrique/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/mission/Urgence-Afrique/</guid>
+      <guid>http://infosofbentog.github.io/mission/Urgence-Afrique/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/YklsiM0.jpg&#34; alt=&#34;&#34; /&gt;
@@ -205,10 +201,10 @@ Après sélection de votre candidature, tout volontaire peut personnaliser sa mi
     
     <item>
       <title>Togbota au Bénin</title>
-      <link>http://localhost:1313/mission/Togbota-au-Benin/</link>
+      <link>http://infosofbentog.github.io/mission/Togbota-au-Benin/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/mission/Togbota-au-Benin/</guid>
+      <guid>http://infosofbentog.github.io/mission/Togbota-au-Benin/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/0vvAWt2.jpg&#34; alt=&#34;&#34; /&gt;
@@ -357,11 +353,38 @@ Selon les services de santé du département, près de 15 % des enfants n’atte
     </item>
     
     <item>
-      <title>Le déroulement de mission - le suivi</title>
-      <link>http://localhost:1313/mission/Le-deroulement-de-mission/</link>
+      <title>Le cadre de ma mission de développement économique</title>
+      <link>http://infosofbentog.github.io/mission/Contexte-de-mission/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/mission/Le-deroulement-de-mission/</guid>
+      <guid>http://infosofbentog.github.io/mission/Contexte-de-mission/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
+
+&lt;p&gt;La ferme solidaire de Togbota, mise en place en 2013, sur une superficie de 2500 m² développe la production de 14 cultures maraîchères menée par un groupe de femmes.
+On y trouve: gombo,manioc, tomates, maïs, piment, arachides, taro, ananas, papaye etc&amp;hellip;.
+La vente de cette production doit garantir aux femmes des ressources susceptibles d&amp;rsquo;être réaffectées dans les domaines de l&amp;rsquo;hygiène de la santé et de l&amp;rsquo;éducation.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;A Hanyigba&lt;/h2&gt;
+
+&lt;p&gt;Pour celles eu ceux qui se souviennent, nous chanterons là &lt;em&gt;Planter &amp;hellip;.café, c&amp;rsquo;est pas pour les gens fragiles, y a qu&amp;rsquo;à s&amp;rsquo;baisser mais c&amp;rsquo;est ça qui est difficile!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Blague à part , depuis décembre 2013, les toilettes sèches sont construites, la coopérative a fini son deuxième exercice, une amorce de pisciculture serait née, une ruche en place et un projet d&amp;rsquo;élevage de poulets complèterait la diversité de l&amp;rsquo;outil économique.&lt;/p&gt;
+
+&lt;p&gt;Pour les mordus voici le lien qui vous ramène au rapport de mission fait en ce début 2014,
+&lt;a href=&#34;http://www.urgenceafrique.org/sites/default/files/temoignages-rapports-files/11.2013_rapport_mission_developpement_economique_sophie_b_0.pdf&#34;&gt;11.2013_rapport_mission_developpement_economique_sophie_b_0.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Le déroulement de mission - le suivi</title>
+      <link>http://infosofbentog.github.io/mission/Le-deroulement-de-mission/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://infosofbentog.github.io/mission/Le-deroulement-de-mission/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;A Togbota&lt;/h2&gt;
