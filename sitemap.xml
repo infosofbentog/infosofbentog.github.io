@@ -3,8 +3,23 @@
   
   <url>
     <loc>http://infosofbentog.github.io/</loc>
-    <lastmod>2014-09-28T00:00:00+02:00</lastmod>
+    <lastmod>2014-10-07T00:00:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/volontariat/</loc>
+    <lastmod>2014-10-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/Histoire-d-eau/</loc>
+    <lastmod>2014-10-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/Installation-au-village/</loc>
+    <lastmod>2014-10-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -13,17 +28,22 @@
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/articles/exemple/</loc>
+    <loc>http://infosofbentog.github.io/articles/Un-mot/</loc>
+    <lastmod>2014-09-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/mission/complements-Togbota/</loc>
     <lastmod>2014-09-26T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/mission/Le-deroulement-de-mission/</loc>
+    <loc>http://infosofbentog.github.io/mission/Hanyigba-au-Togo/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/mission/Un-mot/</loc>
+    <loc>http://infosofbentog.github.io/mission/Contexte-de-mission/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,17 +58,12 @@
   </url>
   
   <url>
+    <loc>http://infosofbentog.github.io/mission/Le-deroulement-de-mission/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://infosofbentog.github.io/mission/Togbota-au-Benin/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://infosofbentog.github.io/mission/Contexte-de-mission/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://infosofbentog.github.io/mission/Hanyigba-au-Togo/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
