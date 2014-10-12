@@ -3,32 +3,74 @@
   <channel>
       <title>Soyons-Fous on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/Rubriques/soyons-fous/index.xml/</link>
+    <link>http://infosofbentog.github.io/rubriques/soyons-fous/index.xml/</link>
     <language>fr-fr</language>
     
     
-    <updated>Fri, 26 Sep 2014 00:00:00 CEST</updated>
+    <updated>Sat, 11 Oct 2014 00:00:00 CEST</updated>
     
     <item>
-      <title>exemple</title>
-      <link>http://localhost:1313/articles/exemple/</link>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 CEST</pubDate>
+      <title>un petit peu de tourisme</title>
+      <link>http://infosofbentog.github.io/articles/un-peu-de-tourisme/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 CEST</pubDate>
       
-      <guid>http://localhost:1313/articles/exemple/</guid>
-      <description>&lt;p&gt;Pour la date de l&amp;rsquo;article, bien respecter le format :
-YYYY-MM-JJT00:00:00:00&lt;/p&gt;
+      <guid>http://infosofbentog.github.io/articles/un-peu-de-tourisme/</guid>
+      <description>
 
-&lt;p&gt;Retirer les rubriques en trop&lt;/p&gt;
+&lt;h1 id=&#34;toc_0&#34;&gt;Aventures du week end&lt;/h1&gt;
 
-&lt;p&gt;Pour ajouter une photo :
-1/ ouvrir la photo
-2/ faire une capture avec greenshot (icone G)
-3/ Enregistrer dans static et choisir un nom sans espace ni accent
-4/ replacer le texte et le nom dans l&amp;rsquo;exemple ci-dessous :
-5/ copier la ligne dans l&amp;rsquo;article (avec le !)&lt;/p&gt;
+&lt;p&gt;Un peu de tourisme ce week-end avec la visite de Ouidah, renommée pour son activité négrière intense avec l&amp;rsquo;installation des forts danois, hollandais anglais français et portuguais, ce dernier abritant aujourd&amp;rsquo;hui un musée de la &amp;ldquo;traite négrière&amp;rdquo;;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/Tulips.jpg&#34; alt=&#34;de belles tulipes&#34; /&gt;
+&lt;p&gt;&lt;strong&gt;Photo texte esclavage&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;/texte-esclavage.jpg&#34; alt=&#34;Texte Esclavage&#34; /&gt;
 &lt;/p&gt;
+
+&lt;p&gt;2 des 11 millions d&amp;rsquo;hommes femmes et enfants ont quitté leur terre d&amp;rsquo;Afrique à Ouidah pour le brésil, la martinique, Haïti. Un parcours de 4km jusqu&amp;rsquo;à la porte du non retour garde toute son intensité d&amp;rsquo;émotion. L&amp;rsquo;épreuve des 4 Km à pied est aussi à remettre dans le contexte climatique local!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Photo porte du non retour.&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;/porte-du-non-retour.jpg&#34; alt=&#34;Porte du non retour&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Et puis Ouidah porte son empreinte du Vaudou et honore sa divinité &amp;ldquo;le python&amp;rdquo;, Moi, voyez vous je n&amp;rsquo;ai pas trop senti de communication étroite avec cette divinité !!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Photo pythons&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;/photo-pythons.jpg&#34; alt=&#34;Photo pythons&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Enfin, après quelques gambas grillées nous avons filé avec quelques bénévoles en taxi vers Ganvié, village lacustre de pêcheurs installé sur le lac Nokoué.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Photo ganvie&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;/village-ganvie.jpg&#34; alt=&#34;Village Ganvie&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;photo bientôt moi&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;/bientotmoi.jpg&#34; alt=&#34;Bientôt Moi&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;le soleil bat son plein&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;/lesoleilbatsonpleinaganvie.jpg&#34; alt=&#34;le soleil bat son plein&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Entièrement construite sur pilotis, notre venise d&amp;rsquo;Afrique offre un paysage assez magique. Les 40 000 Toffinou pêchent, traffiquent avec l&amp;rsquo;essence du Nigeria, et les femmes organisées en coopérative exploitent la hyacynthe d&amp;rsquo;eau soutenues par SOGEA-SATOM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;hyacynthe d&amp;rsquo;eau&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&#34;/hyacynthe-d-eau.jpg&#34; alt=&#34;hyacynthe d&#39;eau&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cette semaine, j&#39;ai investi</title>
+      <link>http://infosofbentog.github.io/articles/j-ai-investi/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 CEST</pubDate>
+      
+      <guid>http://infosofbentog.github.io/articles/j-ai-investi/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;J&amp;rsquo;ai acheté un bouc&lt;/h1&gt;
+
+&lt;p&gt;Il m&amp;rsquo;a couté 7000F CFA, soit près de 10 euros&amp;hellip;.!
+Suite au prochain numéro.&lt;/p&gt;
 </description>
     </item>
     
