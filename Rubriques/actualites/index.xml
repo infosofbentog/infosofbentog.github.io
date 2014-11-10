@@ -3,7 +3,7 @@
   <channel>
       <title>Actualites on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://infosofbentog.github.io/rubriques/actualites/index.xml/</link>
+    <link>http://localhost:1313/rubriques/actualites/index.xml/</link>
     <language>fr-fr</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Merci Merci</title>
-      <link>http://infosofbentog.github.io/articles/merci-merci/</link>
+      <link>http://localhost:1313/articles/merci-merci/</link>
       <pubDate>Sat, 08 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/merci-merci/</guid>
+      <guid>http://localhost:1313/articles/merci-merci/</guid>
       <description>&lt;p&gt;d&amp;rsquo;avoir voté pour Urgence Afrique, le village d&amp;rsquo;Hanyigba Todji va bénéficier d&amp;rsquo;une bibliothèque pour les enfants d&amp;rsquo;une valeur de 5000 euros.&lt;/p&gt;
 
 &lt;p&gt;Nous allons faire des heureux&amp;hellip;..et leur reservons la surprise. Prudence avec le temps de la mise en place !&lt;/p&gt;
@@ -24,57 +24,6 @@
 &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/photo-enfants-2.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Un retour au village</title>
-      <link>http://infosofbentog.github.io/articles/Retour-au-village/</link>
-      <pubDate>Mon, 03 Nov 2014 00:00:00 &#43;0200</pubDate>
-      
-      <guid>http://infosofbentog.github.io/articles/Retour-au-village/</guid>
-      <description>
-
-&lt;p&gt;Et oui émotion assurée, quand on revient au village après 1 an.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;photo retour au village&lt;/strong&gt;
-&lt;img src=&#34;/de-retour-au-village.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Tout est intact, tout est pareil et pourtant tout a changé.
-Un regard averti qui ne se laisse plus distraire par ces différences de culture, confort et autres détails.&lt;/p&gt;
-
-&lt;p&gt;Le regard des autres qui déjà marque une reconnaissance, &amp;ldquo;bonne arrivée&amp;rdquo; et quelques signes forts des adultes ou enfants qui savent, ils se souviennent aussi du prénom.&lt;/p&gt;
-
-&lt;p&gt;Un repérage des lieux qui ne mérite plus d&amp;rsquo;assistance de qui que ce soit, l&amp;rsquo;eau, les toilettes, les clés les bouteilles d&amp;rsquo;eau, le PQ,  les horaires de repas, tout cet essentiel qu&amp;rsquo;il n&amp;rsquo;y a plus à apprendre.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Je suis chez moi, au village d&amp;rsquo;Hanyigba Todji&amp;rdquo;.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Confiance, légitimité&lt;/h2&gt;
-
-&lt;p&gt;Ce deuxième passage confirme une réelle crédibilité au petit yovo qui vient là bas comme bénévole, parmi tant de bénévoles, chaque année.&lt;/p&gt;
-
-&lt;p&gt;Une confiance est établie, nous avons un peu de passé commun, cela soude nos relations, je suis encore plus crédible que l&amp;rsquo;an dernier. Les cultures de langues orales ont réellement une très bonne mémoire, autonomie oblige en l&amp;rsquo;absence de tuteurs, annexes, prothèses ou autres équipements que nos chères sociétés multiplient de plus en plus.&lt;/p&gt;
-
-&lt;p&gt;Je suis tellemet étonnée d&amp;rsquo;entendre Boniface me redire une de mes dernières phrases, ou Eugène qui se souvient de mon anecdote ou enfin Clément -78 ans- qui reste encore ébahi de mon cadeau , un magnifique sweet &amp;ldquo;abercrombie&amp;rdquo; s&amp;rsquo;il vous plaît.&lt;/p&gt;
-
-&lt;p&gt;L&amp;rsquo;infatigable &amp;ldquo;reine Sophie&amp;rdquo;, et oui! c&amp;rsquo;est ainsi que m&amp;rsquo;appelle Roger à la pépinière!
-Ce retour laisse naître quelques ambiguités d&amp;rsquo;interprétation chez certains: &amp;ldquo;Tu vas donc t&amp;rsquo;installer au Togo ?&amp;rdquo; ou encore, quand peut être pourrai-je te rejoindre ? une certaine dynamique s&amp;rsquo;installe ainsi chez les séniors mais, je contrôle, et enraye la quête de l&amp;rsquo;innaccessible étoile.&lt;/p&gt;
-
-&lt;p&gt;Malheureusement d&amp;rsquo;autres bénévoles, certes plus jeunes, laissent des signes de rêve, ce qui peut vite faire tourner vinaigre certains de nos amis &amp;ldquo;ewé&amp;rdquo;, c&amp;rsquo;est comme ça que JOE s&amp;rsquo;est fait virer d&amp;rsquo;UA en Avril, il avait perdu la tête! et maintenant son job! et la jeune aguicheuse est belle et bien rentrée en France et ne reviendra pas!&lt;/p&gt;
-
-&lt;p&gt;Confiance contrôlée, Amitiés modérées, et respect assuré.
-Crédibilité exacerbée&amp;hellip;.là, je suis maintenant par contre et vraiment débordée.&lt;/p&gt;
-
-&lt;p&gt;**Photo ma nouvelle case **&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/ma-nouvelle-case-1.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Oui, elle a un petit air semblable à l&amp;rsquo;année dernière, quoique plus modeste encore. Mais j&amp;rsquo;y suis seule, et ces soirées à la lumière de la bougie  avec un petit podcast dans les oreilles sont un vrai moment de plénitude.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/ma-nouvelle-case-2.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
