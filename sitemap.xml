@@ -3,8 +3,43 @@
   
   <url>
     <loc>http://infosofbentog.github.io/</loc>
-    <lastmod>2014-11-08T00:00:00+02:00</lastmod>
+    <lastmod>2014-11-15T00:00:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/Histoire%20de%20bouc/</loc>
+    <lastmod>2014-11-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/allez%20hop%20hop%20hop/</loc>
+    <lastmod>2014-11-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/A%20chacun%20son%20temps/</loc>
+    <lastmod>2014-11-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/dispensaire/</loc>
+    <lastmod>2014-11-14T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/gouvernance/</loc>
+    <lastmod>2014-11-13T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/le%20bonhomme/</loc>
+    <lastmod>2014-11-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/merci-merci/</loc>
+    <lastmod>2014-11-08T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -14,11 +49,6 @@
   
   <url>
     <loc>http://infosofbentog.github.io/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</loc>
-    <lastmod>2014-11-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://infosofbentog.github.io/articles/merci-merci/</loc>
     <lastmod>2014-11-08T00:00:00+02:00</lastmod>
   </url>
   
@@ -38,12 +68,12 @@
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/articles/les-twress/</loc>
+    <loc>http://infosofbentog.github.io/articles/exotisme-et-detente/</loc>
     <lastmod>2014-10-26T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/articles/exotisme-et-detente/</loc>
+    <loc>http://infosofbentog.github.io/articles/les-twress/</loc>
     <lastmod>2014-10-26T00:00:00+02:00</lastmod>
   </url>
   
@@ -58,23 +88,13 @@
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/articles/amorce-de-decrue/</loc>
-    <lastmod>2014-10-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://infosofbentog.github.io/articles/samuel-fosso/</loc>
     <lastmod>2014-10-18T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/articles/Mais-pourquoi-donc-ce-bouc/</loc>
-    <lastmod>2014-10-17T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://infosofbentog.github.io/articles/LahFwric/</loc>
-    <lastmod>2014-10-17T00:00:00+02:00</lastmod>
+    <loc>http://infosofbentog.github.io/articles/amorce-de-decrue/</loc>
+    <lastmod>2014-10-18T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -83,7 +103,7 @@
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/articles/l-Afrique-ca-pique/</loc>
+    <loc>http://infosofbentog.github.io/articles/Mais-pourquoi-donc-ce-bouc/</loc>
     <lastmod>2014-10-17T00:00:00+02:00</lastmod>
   </url>
   
@@ -93,12 +113,22 @@
   </url>
   
   <url>
+    <loc>http://infosofbentog.github.io/articles/l-Afrique-ca-pique/</loc>
+    <lastmod>2014-10-17T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://infosofbentog.github.io/articles/LahFwric/</loc>
+    <lastmod>2014-10-17T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://infosofbentog.github.io/mission/complements-Contexte-de-mission/</loc>
     <lastmod>2014-10-12T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/articles/un-peu-de-tourisme/</loc>
+    <loc>http://infosofbentog.github.io/articles/a-togbota-on-ne-s-ennuie-pas/</loc>
     <lastmod>2014-10-11T00:00:00+02:00</lastmod>
   </url>
   
@@ -108,7 +138,7 @@
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/articles/a-togbota-on-ne-s-ennuie-pas/</loc>
+    <loc>http://infosofbentog.github.io/articles/un-peu-de-tourisme/</loc>
     <lastmod>2014-10-11T00:00:00+02:00</lastmod>
   </url>
   
@@ -143,12 +173,12 @@
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/mission/Urgence-Afrique/</loc>
+    <loc>http://infosofbentog.github.io/mission/Hanyigba-au-Togo/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://infosofbentog.github.io/mission/Hanyigba-au-Togo/</loc>
+    <loc>http://infosofbentog.github.io/mission/Urgence-Afrique/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
