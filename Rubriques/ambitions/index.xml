@@ -3,7 +3,7 @@
   <channel>
       <title>Ambitions on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://infosofbentog.github.io/rubriques/ambitions/index.xml/</link>
+    <link>http://localhost:1313/rubriques/ambitions/index.xml/</link>
     <language>fr-fr</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Allez Hop Hop Hop</title>
-      <link>http://infosofbentog.github.io/articles/allez%20hop%20hop%20hop/</link>
+      <link>http://localhost:1313/articles/allez%20hop%20hop%20hop/</link>
       <pubDate>Sat, 15 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/allez%20hop%20hop%20hop/</guid>
+      <guid>http://localhost:1313/articles/allez%20hop%20hop%20hop/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Allez Hop Hop Hop, que ça saute!&lt;/h1&gt;
@@ -61,10 +61,10 @@ Tout ça m&amp;rsquo;a valu quelques soirées pour calculer les volumes d&amp;rs
     
     <item>
       <title>Débordée...je suis débordée</title>
-      <link>http://infosofbentog.github.io/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</link>
+      <link>http://localhost:1313/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</link>
       <pubDate>Sat, 08 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</guid>
+      <guid>http://localhost:1313/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</guid>
       <description>&lt;p&gt;Alors que déjà, sur un seul mois cette année, je suis attendue pour traiter l&amp;rsquo;activité économique et financière d&amp;rsquo;une deuxième année de la coopérative, je consacre mes week-end à transformer cet amalgame d&amp;rsquo;écritures appliquées pourtant dans un ordi pour comprendre , synthétiser, contrôler, et simuler.&lt;/p&gt;
 
 &lt;p&gt;Bingo! je suis appelée pour renégocier le partenariat dUA avec le dispensaire. Ainsi, je saisis aussi l&amp;rsquo;ensemble des données relatives à l&amp;rsquo;activité et aux transactions financières du dispensaire.&lt;/p&gt;
@@ -94,10 +94,10 @@ et puis n&amp;rsquo;oublions pas&amp;hellip;..&amp;ldquo;les gammes de sachets&a
     
     <item>
       <title>Le bouc et mystere</title>
-      <link>http://infosofbentog.github.io/articles/le-bouc-et-mystere/</link>
+      <link>http://localhost:1313/articles/le-bouc-et-mystere/</link>
       <pubDate>Mon, 27 Oct 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/le-bouc-et-mystere/</guid>
+      <guid>http://localhost:1313/articles/le-bouc-et-mystere/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Mais où est donc passé le bouc?&lt;/h1&gt;
@@ -147,10 +147,10 @@ Ils ont un champs à eux dans l&amp;rsquo;espace de la ferme et y développent c
     
     <item>
       <title>Lutter contre le déboisement, c&#39;est aussi notre affaire!</title>
-      <link>http://infosofbentog.github.io/articles/reboisement/</link>
-      <pubDate>Fri, 17 Oct 2014 00:00:00 CEST</pubDate>
+      <link>http://localhost:1313/articles/reboisement/</link>
+      <pubDate>Fri, 17 Oct 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/reboisement/</guid>
+      <guid>http://localhost:1313/articles/reboisement/</guid>
       <description>
 
 &lt;p&gt;La région de Togbota abrite dans ses forêts sacrées &lt;strong&gt;le zinkaka&lt;/strong&gt;, singe au ventre rouge en voie de disparition, ainsi que le mona, au ventre blanc!!

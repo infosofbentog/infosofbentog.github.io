@@ -3,18 +3,63 @@
   <channel>
       <title>Soyons-Fous on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://infosofbentog.github.io/rubriques/soyons-fous/index.xml/</link>
+    <link>http://localhost:1313/rubriques/soyons-fous/index.xml/</link>
     <language>fr-fr</language>
     
     
-    <updated>Sat, 11 Oct 2014 00:00:00 CEST</updated>
+    <updated>Fri, 21 Nov 2014 00:00:00 &#43;0200</updated>
+    
+    <item>
+      <title>De la pure folie...douce!</title>
+      <link>http://localhost:1313/articles/de%20la%20pure%20folie/</link>
+      <pubDate>Fri, 21 Nov 2014 00:00:00 &#43;0200</pubDate>
+      
+      <guid>http://localhost:1313/articles/de%20la%20pure%20folie/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;De la pure folie&amp;hellip;..&lt;/h1&gt;
+
+&lt;p&gt;La semaine a été dentesque ! appelée pour dresser l&amp;rsquo;inventaire du dispensaire, j&amp;rsquo;ai découvert qu&amp;rsquo;à Hanyigba, on vend les comprimés à l&amp;rsquo;unité. Imaginez des conditionnements de 1000 petites pillules. On vend aussi les comprimés par plaquette, ou bien les sirops par ml&amp;hellip;..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Photo détail dispensaire&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Appelée aussi pour mener un entretien individuel et provoquer un départ à la retraite, j&amp;rsquo;ai pu constater que certaines similitudes relationnelles employeur employé traversaient les frontières, mais par contre, quand l&amp;rsquo;employeur a le même grand père que l&amp;rsquo;employé&amp;hellip;.là les débats atteignent les ancêtres. Nos deux ennemis de sang ont été difficiles à maîtriser&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;Mais en fait cette semaine, c&amp;rsquo;était la livraison des cabosses, et les cabosses&amp;hellip;.ça n&amp;rsquo;attend pas! aussi sans relâche et entre deux j&amp;rsquo;ai planté et planté, vendredi le score à battre était 11 146!!!
+Complètement vermoulue, le dos et les jambes en compote &amp;hellip;&amp;hellip;je ne veux plus entendre parler de pépinière!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Importations diversifiées</title>
+      <link>http://localhost:1313/articles/importations%20vari%C3%A9es/</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 &#43;0200</pubDate>
+      
+      <guid>http://localhost:1313/articles/importations%20vari%C3%A9es/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Importations diverses ou variées&lt;/h1&gt;
+
+&lt;p&gt;Ca y est Frédéric Lenoir est à Hanyigba Todji, Il parcourt les chemins du village.
+Edouard, à qui j&amp;rsquo;ai offert mon petit manuel de &amp;ldquo;vie intérieure&amp;rdquo; est très fier, et s&amp;rsquo;installe dehors au vu et su de tout le monde avec son livre bien en évidence.
+Mais aussi, le même petit livre était l&amp;rsquo;après midi même dans les mains de Marc qui s&amp;rsquo;est empressé de me le montrer&amp;hellip;..
+Reste à approfondir si la lecture va emporter nos néo philosophe d&amp;rsquo;Hanyigba.&lt;/p&gt;
+
+&lt;p&gt;Victoire vous montre son nouveau bracelet réalisé avec les élastiques apportés par Maman Sophie. Il a tenu aussi à m&amp;rsquo;en faire un.. En quelques poignées de minutes, les provisions étaient épuises et chacun est parti fiérot avec son nouveau bracelet.
+La mode a touché Hanyigba&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Victoire pose&lt;/strong&gt;
+&lt;img src=&#34;/Victoire-pose.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cette semaine, j&#39;ai investi</title>
-      <link>http://infosofbentog.github.io/articles/j-ai-investi/</link>
-      <pubDate>Sat, 11 Oct 2014 00:00:00 CEST</pubDate>
+      <link>http://localhost:1313/articles/j-ai-investi/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/j-ai-investi/</guid>
+      <guid>http://localhost:1313/articles/j-ai-investi/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;J&amp;rsquo;ai acheté un bouc&lt;/h1&gt;
@@ -26,10 +71,10 @@ Suite au prochain numéro.&lt;/p&gt;
     
     <item>
       <title>un petit peu de tourisme</title>
-      <link>http://infosofbentog.github.io/articles/un-peu-de-tourisme/</link>
-      <pubDate>Sat, 11 Oct 2014 00:00:00 CEST</pubDate>
+      <link>http://localhost:1313/articles/un-peu-de-tourisme/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/un-peu-de-tourisme/</guid>
+      <guid>http://localhost:1313/articles/un-peu-de-tourisme/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Aventures du week end&lt;/h1&gt;
