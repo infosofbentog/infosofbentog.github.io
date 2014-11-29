@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://infosofbentog.github.io/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     <language>fr-fr</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Barbecue de bouc</title>
-      <link>http://infosofbentog.github.io/articles/du%20bouc%20encore%20du%20bouc/</link>
+      <link>http://localhost:1313/articles/du%20bouc%20encore%20du%20bouc/</link>
       <pubDate>Sat, 22 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/du%20bouc%20encore%20du%20bouc/</guid>
+      <guid>http://localhost:1313/articles/du%20bouc%20encore%20du%20bouc/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Du bouc, encore du bouc!!&lt;/h1&gt;
@@ -46,10 +46,10 @@ Tiens si on jeûnait, encore un peu aujourd&amp;rsquo;hui !!&lt;/p&gt;
     
     <item>
       <title>De la pure folie...douce!</title>
-      <link>http://infosofbentog.github.io/articles/de%20la%20pure%20folie/</link>
+      <link>http://localhost:1313/articles/de%20la%20pure%20folie/</link>
       <pubDate>Fri, 21 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/de%20la%20pure%20folie/</guid>
+      <guid>http://localhost:1313/articles/de%20la%20pure%20folie/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;De la pure folie&amp;hellip;..&lt;/h1&gt;
@@ -72,10 +72,10 @@ Complètement vermoulue, le dos et les jambes en compote &amp;hellip;&amp;hellip
     
     <item>
       <title>Faire peur....c&#39;est lessentiel</title>
-      <link>http://infosofbentog.github.io/articles/Faire%20peur/</link>
+      <link>http://localhost:1313/articles/Faire%20peur/</link>
       <pubDate>Fri, 21 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/Faire%20peur/</guid>
+      <guid>http://localhost:1313/articles/Faire%20peur/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Faire peur c&amp;rsquo;est l&amp;rsquo;essentiel!&lt;/h1&gt;
@@ -93,10 +93,10 @@ Complètement vermoulue, le dos et les jambes en compote &amp;hellip;&amp;hellip
     
     <item>
       <title>Un petit couple</title>
-      <link>http://infosofbentog.github.io/articles/petit%20couple/</link>
+      <link>http://localhost:1313/articles/petit%20couple/</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/petit%20couple/</guid>
+      <guid>http://localhost:1313/articles/petit%20couple/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Voyez ce petit couple, haut en couleur!&lt;/h1&gt;
@@ -110,10 +110,10 @@ Complètement vermoulue, le dos et les jambes en compote &amp;hellip;&amp;hellip
     
     <item>
       <title>Importations diversifiées</title>
-      <link>http://infosofbentog.github.io/articles/importations%20vari%C3%A9es/</link>
+      <link>http://localhost:1313/articles/importations%20vari%C3%A9es/</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/importations%20vari%C3%A9es/</guid>
+      <guid>http://localhost:1313/articles/importations%20vari%C3%A9es/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Importations diverses ou variées&lt;/h1&gt;
@@ -134,10 +134,10 @@ La mode a touché Hanyigba&amp;hellip;.&lt;/p&gt;
     
     <item>
       <title>Inauguration sans trombe</title>
-      <link>http://infosofbentog.github.io/articles/Inauguration%20sans%20grande%20pompe/</link>
+      <link>http://localhost:1313/articles/Inauguration%20sans%20grande%20pompe/</link>
       <pubDate>Tue, 18 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/Inauguration%20sans%20grande%20pompe/</guid>
+      <guid>http://localhost:1313/articles/Inauguration%20sans%20grande%20pompe/</guid>
       <description>
 
 &lt;p&gt;Ca y est, le prototype &amp;ldquo;toilettes sèches&amp;rdquo; est ouvert. En ce mardi à 6 heures du matin, petite réunion pour rappeler les dernières consignes et hop hop hop: cacas franco-togolais à l&amp;rsquo;unisson pour le prochain compost utile au Cacaooooooh!&lt;/p&gt;
@@ -184,11 +184,46 @@ Enfin malgré le duo, intimité assurée, un seul sanitaire est en action quand 
     </item>
     
     <item>
-      <title>Allez Hop Hop Hop</title>
-      <link>http://infosofbentog.github.io/articles/allez%20hop%20hop%20hop/</link>
+      <title>A chacun son temps</title>
+      <link>http://localhost:1313/articles/A%20chacun%20son%20temps/</link>
       <pubDate>Sat, 15 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/allez%20hop%20hop%20hop/</guid>
+      <guid>http://localhost:1313/articles/A%20chacun%20son%20temps/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;A chacun son stress&amp;hellip;&lt;/h2&gt;
+
+&lt;p&gt;Pour l&amp;rsquo;Européen, le temps existe objectivement et a des propriétés mesurables. L&amp;rsquo;Européen, à l&amp;rsquo;exception peut être du malin retraité, est au service du temps, il dépend de lui, il en est même le sujet.
+Entre l&amp;rsquo;Homme et le temps s&amp;rsquo;installe un perpétuel conflit.
+Au fait, qui va l&amp;rsquo;emporter ?&lt;/p&gt;
+
+&lt;p&gt;Pour l&amp;rsquo;Africain, c&amp;rsquo;est l&amp;rsquo;Homme qui influe sur le temps. Ce dernier n&amp;rsquo;existe pas par lui même.
+Ne demandez pas à quelle heure partira ce taxi-brousse ou à quelle heure démarrera la réunion ?
+Elle démarrera quand les participants seront là, qu&amp;rsquo;on se le dise!!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Histoire de bouc .....</title>
+      <link>http://localhost:1313/articles/Histoire%20de%20bouc/</link>
+      <pubDate>Sat, 15 Nov 2014 00:00:00 &#43;0200</pubDate>
+      
+      <guid>http://localhost:1313/articles/Histoire%20de%20bouc/</guid>
+      <description>&lt;p&gt;Combien voyez vous donc de sabots ?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Photo chevre&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/a-devenir-chevre.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Allez Hop Hop Hop</title>
+      <link>http://localhost:1313/articles/allez%20hop%20hop%20hop/</link>
+      <pubDate>Sat, 15 Nov 2014 00:00:00 &#43;0200</pubDate>
+      
+      <guid>http://localhost:1313/articles/allez%20hop%20hop%20hop/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Allez Hop Hop Hop, que ça saute!&lt;/h1&gt;
@@ -234,46 +269,11 @@ Tout ça m&amp;rsquo;a valu quelques soirées pour calculer les volumes d&amp;rs
     </item>
     
     <item>
-      <title>Histoire de bouc .....</title>
-      <link>http://infosofbentog.github.io/articles/Histoire%20de%20bouc/</link>
-      <pubDate>Sat, 15 Nov 2014 00:00:00 &#43;0200</pubDate>
-      
-      <guid>http://infosofbentog.github.io/articles/Histoire%20de%20bouc/</guid>
-      <description>&lt;p&gt;Combien voyez vous donc de sabots ?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Photo chevre&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/a-devenir-chevre.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A chacun son temps</title>
-      <link>http://infosofbentog.github.io/articles/A%20chacun%20son%20temps/</link>
-      <pubDate>Sat, 15 Nov 2014 00:00:00 &#43;0200</pubDate>
-      
-      <guid>http://infosofbentog.github.io/articles/A%20chacun%20son%20temps/</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;A chacun son stress&amp;hellip;&lt;/h2&gt;
-
-&lt;p&gt;Pour l&amp;rsquo;Européen, le temps existe objectivement et a des propriétés mesurables. L&amp;rsquo;Européen, à l&amp;rsquo;exception peut être du malin retraité, est au service du temps, il dépend de lui, il en est même le sujet.
-Entre l&amp;rsquo;Homme et le temps s&amp;rsquo;installe un perpétuel conflit.
-Au fait, qui va l&amp;rsquo;emporter ?&lt;/p&gt;
-
-&lt;p&gt;Pour l&amp;rsquo;Africain, c&amp;rsquo;est l&amp;rsquo;Homme qui influe sur le temps. Ce dernier n&amp;rsquo;existe pas par lui même.
-Ne demandez pas à quelle heure partira ce taxi-brousse ou à quelle heure démarrera la réunion ?
-Elle démarrera quand les participants seront là, qu&amp;rsquo;on se le dise!!!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Dispensaire</title>
-      <link>http://infosofbentog.github.io/articles/dispensaire/</link>
+      <link>http://localhost:1313/articles/dispensaire/</link>
       <pubDate>Fri, 14 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/dispensaire/</guid>
+      <guid>http://localhost:1313/articles/dispensaire/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Coup d&amp;rsquo;oeil sur un dispensaire rural Togolais&lt;/h1&gt;
@@ -295,10 +295,10 @@ L&amp;rsquo;infirmier, Responsable principal gagne en l&amp;rsquo;état
     
     <item>
       <title>Gouvernance</title>
-      <link>http://infosofbentog.github.io/articles/gouvernance/</link>
+      <link>http://localhost:1313/articles/gouvernance/</link>
       <pubDate>Thu, 13 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/gouvernance/</guid>
+      <guid>http://localhost:1313/articles/gouvernance/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Gouvernance&amp;hellip;..Ici ausi la crise!&lt;/h1&gt;
@@ -331,10 +331,10 @@ N&amp;rsquo;est ce pas ainsi chez nous aussi ??&lt;/p&gt;
     
     <item>
       <title>Avez vous déjà vu le premier bonhomme Africain?</title>
-      <link>http://infosofbentog.github.io/articles/le%20bonhomme/</link>
+      <link>http://localhost:1313/articles/le%20bonhomme/</link>
       <pubDate>Wed, 12 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/le%20bonhomme/</guid>
+      <guid>http://localhost:1313/articles/le%20bonhomme/</guid>
       <description>&lt;p&gt;Certains de me demander, à l&amp;rsquo;occasion de ce blog: &amp;ldquo;Mais les enfants dessinent ils leur premier bonhomme dans le goût de nos Psys européens&amp;rdquo;??&lt;/p&gt;
 
 &lt;p&gt;Jugez en par vous mêmes.&lt;/p&gt;
@@ -355,10 +355,10 @@ N&amp;rsquo;est ce pas ainsi chez nous aussi ??&lt;/p&gt;
     
     <item>
       <title>Courage et persévérance</title>
-      <link>http://infosofbentog.github.io/articles/courage-et-pers%C3%A9v%C3%A9rance/</link>
+      <link>http://localhost:1313/articles/courage-et-pers%C3%A9v%C3%A9rance/</link>
       <pubDate>Sat, 08 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/courage-et-pers%C3%A9v%C3%A9rance/</guid>
+      <guid>http://localhost:1313/articles/courage-et-pers%C3%A9v%C3%A9rance/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Courage et persévérance, des alliés indispensables, à la pratique de l&amp;rsquo;ONG&lt;/h1&gt;
@@ -389,10 +389,10 @@ Parcequ&amp;rsquo;ils ont oublié de les commander !!! Pourquoi ne pas l&amp;rsq
     
     <item>
       <title>Merci Merci</title>
-      <link>http://infosofbentog.github.io/articles/merci-merci/</link>
+      <link>http://localhost:1313/articles/merci-merci/</link>
       <pubDate>Sat, 08 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/merci-merci/</guid>
+      <guid>http://localhost:1313/articles/merci-merci/</guid>
       <description>&lt;p&gt;d&amp;rsquo;avoir voté pour Urgence Afrique, le village d&amp;rsquo;Hanyigba Todji va bénéficier d&amp;rsquo;une bibliothèque pour les enfants d&amp;rsquo;une valeur de 5000 euros.&lt;/p&gt;
 
 &lt;p&gt;Nous allons faire des heureux&amp;hellip;..et leur reservons la surprise. Prudence avec le temps de la mise en place !&lt;/p&gt;
@@ -408,10 +408,10 @@ Parcequ&amp;rsquo;ils ont oublié de les commander !!! Pourquoi ne pas l&amp;rsq
     
     <item>
       <title>Débordée...je suis débordée</title>
-      <link>http://infosofbentog.github.io/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</link>
+      <link>http://localhost:1313/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</link>
       <pubDate>Sat, 08 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</guid>
+      <guid>http://localhost:1313/articles/D%C3%A9bord%C3%A9e-je-suis-d%C3%A9bord%C3%A9e/</guid>
       <description>&lt;p&gt;Alors que déjà, sur un seul mois cette année, je suis attendue pour traiter l&amp;rsquo;activité économique et financière d&amp;rsquo;une deuxième année de la coopérative, je consacre mes week-end à transformer cet amalgame d&amp;rsquo;écritures appliquées pourtant dans un ordi pour comprendre , synthétiser, contrôler, et simuler.&lt;/p&gt;
 
 &lt;p&gt;Bingo! je suis appelée pour renégocier le partenariat dUA avec le dispensaire. Ainsi, je saisis aussi l&amp;rsquo;ensemble des données relatives à l&amp;rsquo;activité et aux transactions financières du dispensaire.&lt;/p&gt;

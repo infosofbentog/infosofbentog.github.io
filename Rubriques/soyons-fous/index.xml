@@ -3,7 +3,7 @@
   <channel>
       <title>Soyons-Fous on Automne en Afrique </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://infosofbentog.github.io/rubriques/soyons-fous/index.xml/</link>
+    <link>http://localhost:1313/rubriques/soyons-fous/index.xml/</link>
     <language>fr-fr</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>De la pure folie...douce!</title>
-      <link>http://infosofbentog.github.io/articles/de%20la%20pure%20folie/</link>
+      <link>http://localhost:1313/articles/de%20la%20pure%20folie/</link>
       <pubDate>Fri, 21 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/de%20la%20pure%20folie/</guid>
+      <guid>http://localhost:1313/articles/de%20la%20pure%20folie/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;De la pure folie&amp;hellip;..&lt;/h1&gt;
@@ -37,10 +37,10 @@ Complètement vermoulue, le dos et les jambes en compote &amp;hellip;&amp;hellip
     
     <item>
       <title>Importations diversifiées</title>
-      <link>http://infosofbentog.github.io/articles/importations%20vari%C3%A9es/</link>
+      <link>http://localhost:1313/articles/importations%20vari%C3%A9es/</link>
       <pubDate>Thu, 20 Nov 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/importations%20vari%C3%A9es/</guid>
+      <guid>http://localhost:1313/articles/importations%20vari%C3%A9es/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Importations diverses ou variées&lt;/h1&gt;
@@ -60,26 +60,11 @@ La mode a touché Hanyigba&amp;hellip;.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Cette semaine, j&#39;ai investi</title>
-      <link>http://infosofbentog.github.io/articles/j-ai-investi/</link>
-      <pubDate>Sat, 11 Oct 2014 00:00:00 &#43;0200</pubDate>
-      
-      <guid>http://infosofbentog.github.io/articles/j-ai-investi/</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;J&amp;rsquo;ai acheté un bouc&lt;/h1&gt;
-
-&lt;p&gt;Il m&amp;rsquo;a couté 7000F CFA, soit près de 10 euros&amp;hellip;.!
-Suite au prochain numéro.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>un petit peu de tourisme</title>
-      <link>http://infosofbentog.github.io/articles/un-peu-de-tourisme/</link>
+      <link>http://localhost:1313/articles/un-peu-de-tourisme/</link>
       <pubDate>Sat, 11 Oct 2014 00:00:00 &#43;0200</pubDate>
       
-      <guid>http://infosofbentog.github.io/articles/un-peu-de-tourisme/</guid>
+      <guid>http://localhost:1313/articles/un-peu-de-tourisme/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Aventures du week end&lt;/h1&gt;
@@ -121,6 +106,21 @@ Suite au prochain numéro.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;hyacynthe d&amp;rsquo;eau&lt;/strong&gt;&lt;br /&gt;
 &lt;img src=&#34;/hyacynthe-d-eau.jpg&#34; alt=&#34;hyacynthe d&#39;eau&#34; /&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cette semaine, j&#39;ai investi</title>
+      <link>http://localhost:1313/articles/j-ai-investi/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 &#43;0200</pubDate>
+      
+      <guid>http://localhost:1313/articles/j-ai-investi/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;J&amp;rsquo;ai acheté un bouc&lt;/h1&gt;
+
+&lt;p&gt;Il m&amp;rsquo;a couté 7000F CFA, soit près de 10 euros&amp;hellip;.!
+Suite au prochain numéro.&lt;/p&gt;
 </description>
     </item>
     

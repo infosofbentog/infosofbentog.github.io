@@ -10,9 +10,9 @@
   <title> Débordée...je suis débordée &middot; Automne en Afrique </title>
 
   
-  <link rel="stylesheet" href="http://infosofbentog.github.io/css/poole.css">
-  <link rel="stylesheet" href="http://infosofbentog.github.io/css/syntax.css">
-  <link rel="stylesheet" href="http://infosofbentog.github.io/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -94,10 +94,10 @@ et puis n&rsquo;oublions pas&hellip;..&ldquo;les gammes de sachets&rdquo;</p>
 </div>
   <div>
         
-          <a class="previous" href="http://infosofbentog.github.io/articles/merci-merci/"> Merci Merci &lt;&lt; </a>
+          <a class="previous" href="http://localhost:1313/articles/merci-merci/"> Merci Merci &lt;&lt; </a>
         
         
-          <a class="next" href="http://infosofbentog.github.io/articles/D%C3%A9luge-en-montagne/"> &gt;&gt; Déluge en montagne</a>
+          <a class="next" href="http://localhost:1313/articles/D%C3%A9luge-en-montagne/"> &gt;&gt; Déluge en montagne</a>
         
     </div>
    <div id="disqus_thread"></div>
@@ -118,5 +118,8 @@ et puis n&rsquo;oublions pas&hellip;..&ldquo;les gammes de sachets&rdquo;</p>
 
 </div>
 
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
